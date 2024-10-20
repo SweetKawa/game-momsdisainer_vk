@@ -1,1 +1,4 @@
 *.unityweb filter=lfs diff=lfs merge=lfs -text
+bin/Mom's[[:space:]]Designer_Web_VKontakte.data.unityweb filter=lfs diff=lfs merge=lfs -text
+bin/Mom's[[:space:]]Designer_Web_VKontakte.framework.js.unityweb filter=lfs diff=lfs merge=lfs -text
+bin/Mom's[[:space:]]Designer_Web_VKontakte.wasm.unityweb filter=lfs diff=lfs merge=lfs -text
