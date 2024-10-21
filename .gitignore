@@ -1,0 +1,36 @@
+# Игнорирование системных файлов и папок
+.android/
+.bash_history
+.cache/
+.dotnet/
+.gitconfig
+.gradle/
+.matplotlib/
+.oracle_jre_usage/
+.ssh/
+.thumbnails/
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+"главное меню/"
+"Мои документы/"
+"Шаблоны/"
+ntuser.dat.*
